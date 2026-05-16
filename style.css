@@ -607,11 +607,11 @@ button span {
   font-family: "Inter", sans-serif;
   padding: 80px 80px 80px 80px;
   width:90%;
-  height: 70vh;
   background-color: rgb(234, 235, 235);
   display: flex;
   justify-content: space-around;
   justify-self: center;
+  margin-bottom: 40px;
 }
 
 .contact .part1 h4{
